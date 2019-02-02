@@ -3,6 +3,7 @@ print('new change2...')
 print('another dev')
 print('new change1...')
 print('new change...')
+print('new added after error.. ...')
 print('added by another developer...')
 chrom = browser.Chrome
 chrom.find_elements_by_css_selector('')
